@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Deployed to Heroku
+          Deployed to Heroku and Vercel
         </a>
       </header>
     </div>
